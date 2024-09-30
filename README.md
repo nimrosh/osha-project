@@ -1,0 +1,1 @@
+Web app integraded with AWS database that allows users to log into their account and access any images that were taken via a linked mobile app. Allows users to view images taken by date and see any workplace hazards detected (as per OSHA standards).
